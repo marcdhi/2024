@@ -3,4 +3,4 @@
 ## Learning Goals
 - [ ] ML
 - [ ] Rust
-
+- [ ] Cloud Native
