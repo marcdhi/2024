@@ -1,9 +1,10 @@
 # 2024
 
 ## Learning Goals
-- [ ] ML
-- [ ] Rust
+- [x] ML (did basics)
+- [x] Rust
 - [ ] Cloud Native
+- [ ] Solana
 
 
 # Public Assets
